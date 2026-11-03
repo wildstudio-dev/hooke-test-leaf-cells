@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+type: dataset
+title: "Leaf cells"
+authors:
+  - name: "Hooke test"
+license: CC-BY-4.0
+date-released: 2026-11-03
+identifiers:
+  - type: other
+    value: "hooke-project-origin:2ce7f85a2feb4aa9b369862dca499535"
