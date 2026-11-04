@@ -8,10 +8,11 @@ In Hooke, choose **Start from this project** and paste this repository’s addre
 
 ## What it holds
 
-- **source-file** (1)
+- **source-file** (2)
+  - 2026-11-03-leaf-cells-2-picture.jpg
   - 2026-11-03-leaf-cells-phone-picture.jpg
 
-9 record files and 1 large data objects, 0.1 MB in all.
+14 record files and 2 large data objects, 0.2 MB in all.
 
 ## How it was made
 
@@ -23,6 +24,6 @@ Creative Commons Attribution 4.0 ([CC-BY-4.0](https://creativecommons.org/licens
 
 ## Integrity
 
-Snapshot manifest SHA-256: `db0ad0df9313de309f2055e4a83c15cd26db48e470cdaacbebd79c3cf5b74c19`. Conversations were not published; only each journal’s identity line was kept.
+Snapshot manifest SHA-256: `6ab378bac6458922e77252b0d43e0244044ea527a05db282d6e2548210cb51c1`. Conversations were not published; only each journal’s identity line was kept.
 
-Personal metadata (locations, names, dates, device details) was removed from 1 imported image file(s) before publishing. Their pixels are unchanged; each file’s manifest names the original’s SHA-256, which differs from the published copy’s.
+Personal metadata (locations, names, dates, device details) was removed from 2 imported image file(s) before publishing. Their pixels are unchanged; each file’s manifest names the original’s SHA-256, which differs from the published copy’s.
